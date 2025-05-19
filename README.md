@@ -1,1 +1,31 @@
-# sitemap.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://criptoativosem2025.blogspot.com/2025/05/xrp-reconhecido-oficialmente-em-dubai-o_18.html</loc>
+    <lastmod>2025-05-18T19:17:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criptoativosem2025.blogspot.com/2025/05/as-10-melhores-altcoins-baratas-abaixo.html</loc>
+    <lastmod>2025-05-17T21:07:47Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criptoativosem2025.blogspot.com/2025/05/xrp-previsao-de-preco-para-2025-2028-o.html</loc>
+    <lastmod>2025-05-16T23:48:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criptoativosem2025.blogspot.com/2025/05/etf-de-xrp-expectativa-cresce-com.html</loc>
+    <lastmod>2025-05-16T17:49:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criptoativosem2025.blogspot.com/2025/05/pepe-pode-chegar-1-analise-realista-do.html</loc>
+    <lastmod>2025-05-15T19:35:05Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criptoativosem2025.blogspot.com/2025/05/as-melhores-moedas-meme-para-investir.html</loc>
+    <lastmod>2025-05-14T18:01:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://criptoativosem2025.blogspot.com/2025/05/investcripto-simples.html</loc>
+    <lastmod>2025-05-13T15:52:10Z</lastmod>
+  </url>
+</urlset>
